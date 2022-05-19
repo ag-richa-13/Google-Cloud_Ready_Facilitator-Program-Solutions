@@ -11,3 +11,6 @@ Google Cloud Ready Facilitator Program Syllabus: https://events.withgoogle.com/g
 Track-3 
 
 Skill-Badge-6: https://www.cloudskillsboost.google/quests/132
+
+Challange-Lab: Engineer Data in Google Cloud: Challenge Lab
+Link: https://www.cloudskillsboost.google/focuses/12379?parent=catalog
